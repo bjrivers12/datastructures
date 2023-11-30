@@ -41,3 +41,4 @@ int main(int argc, char const *argv[])
 cout<<sum(3,10,20,30)<<endl;
 cout<<sum(5,1,2,3,4,5)<<endl;
 }
+//test
